@@ -6,7 +6,7 @@ Visit the site: https://bit.ly/jrfootprint
 
 ## Overview: ##
 
-This was my second project as part of General Assembly’s Software Engineering course. In pairs, we were given 48 hours to create a frontend application that used an existing free API. My partner (the wonderful [Hannah Hill](https://github.com/hannah-hill)) and I decided to use the Carbon Interface API to create a site where users could work out their carbon footprint depending on a flight or car journey they were taking, and from that determine how many trees would need to be planted to offset that journey.
+This was my second project as part of General Assembly’s Software Engineering course. In pairs, we were given 48 hours to create a front-end application that used an existing free API. My partner (the wonderful [Hannah Hill](https://github.com/hannah-hill)) and I decided to use the Carbon Interface API to create a site where users could work out their carbon footprint depending on a flight or car journey they were taking, and from that determine how many trees would need to be planted to offset that journey.
 
 ![Screenshot of the finished product](./src/assets/readme_images/footprintSS.png)
 
@@ -14,7 +14,7 @@ This was my second project as part of General Assembly’s Software Engineering 
 ## The Brief: ##
 
 * Use a public API - it could be anything but were reminded we were under a tight timeframe.
-* The front end must be built using React.
+* The front-end must be built using React.
 * The project must be deployed online by the end of the 48 hours.
 
 
@@ -107,8 +107,8 @@ The other major win was that this was my first experience of coding in a team. I
 
 ## Key Learnings: ##
 
-* Using React to build the front end.
-* Linking the front end to an existing API.
+* Using React to build the front-end.
+* Linking the front-end to an existing API.
 * JSX, Insomnia, Postman, Axios.
 
 
