@@ -76,7 +76,7 @@ With this system in place, we finished the first day with a simple site that cou
 
 ## Day 2: ##
 
-With our MVP made on day one, we spend the second day focused on tidying everything up somewhat. My partner spent the first part of the day finalising the flight board plugin, which wasn’t originally built to work with React, and got it finished.
+With our MVP made on day one, we spent the second day focused on tidying everything up somewhat. My partner spent the first part of the day finalising the flight board plugin, which wasn’t originally built to work with React, and got it finished.
 
 ![Screenshot of the tickerboard feature](./src/assets/readme_images/tickerboard.png)
 
