@@ -89,7 +89,7 @@ We also changed the style of our forms to the final version you see now on the s
 The last finishing touch I added was I created a logo to place on the header, and also added a CSS animation of a plane that travels from side to side across the page at the top.
 
 
-## Wins & Blockers:##
+## Wins & Blockers: ##
 
 I think the biggest blocker for us here was time. With such a small window to work in, once we got everything running smoothly, we didn’t want to try and do something that would break everything we had before the deadline.
 
